@@ -1,4 +1,6 @@
-
+<h1>
+    Posts
+</h1>
 <ul>
     <li>
         <a href="/stus-blog/1">
